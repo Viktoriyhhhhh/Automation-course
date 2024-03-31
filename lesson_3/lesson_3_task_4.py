@@ -1,5 +1,4 @@
 from turtle import *
-
 my_turtle = Turtle()
 my_turtle.speed(0)
 my_turtle.screen.setup(1200, 800)

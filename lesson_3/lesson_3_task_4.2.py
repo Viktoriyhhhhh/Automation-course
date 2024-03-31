@@ -1,5 +1,4 @@
 from turtle import *
-
 screen = Screen()
 screen.setup(800, 600)
 
